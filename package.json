@@ -1,0 +1,16 @@
+{
+  "name": "papp-usage",
+  "version": "1.0.0",
+  "description": "A script to show what PAPP have been used to burn for Psilocybin.",
+  "main": "papp-usage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node papp-usage.js"
+  },
+  "author": "Twitter - @0xZoom_  GitHub - 0xZoom-eth",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "ethers": "^5.5.4"
+  }
+}
